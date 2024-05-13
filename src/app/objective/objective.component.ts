@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrl: './objective.component.css'
 })
 export class ObjectiveComponent {
-objTitle:string = "Irrigação Inteligente com Energia Solar";
+objTitle:string = "Energia Solar Inteligente";
 objText:string = `Bacon ipsum dolor amet chislic pork belly ham, rump biltong short ribs hamburger ribeye prosciutto bacon corned beef pancetta ham hock tri-tip.
   Spare ribs pancetta pork loin ribeye chicken. Turkey swine pastrami capicola venison. Flank tail bacon, boudin pork loin alcatra ground round rump chislic kevin kielbasa. Chuck jerky pork loin, cow picanha beef pork belly pastrami jowl venison turkey meatball. Boudin cow hamburger sausage short loin porchetta t-bone frankfurter.
 
